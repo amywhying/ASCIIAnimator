@@ -15,3 +15,5 @@ ASCIIAnimator displays image or animation desired by the user. Options include c
 
 #### Wolves
 ![Image of wolves](wolves.png)
+![Image of wolves](wolves2.png)
+![Image of wolves](wolves3.png)
