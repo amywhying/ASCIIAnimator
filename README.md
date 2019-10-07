@@ -5,7 +5,7 @@ Produces the desired ASCII image or animation by user input. The program scraps 
 ASCIIAnimator displays image or animation desired by the user. Options include cat with a soldier, dog, fish, wolves, and an animation of a whale moving its tail.
 
 #### Whale
-![Gif of whale](https://imgur.com/PNMFVUt)
+![Gif of whale](jumpyWhale.gif)
 
 #### Cat
 ![Image of cat and soldier](catAndSoldier.png)
