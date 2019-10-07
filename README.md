@@ -17,6 +17,7 @@ ASCIIAnimator displays image or animation desired by the user. Options include c
 ![Image of fish](fish.png)
 
 #### Wolves
+##### Shows a list of different kinds of wolves ASCII images
 ![Image of wolves](wolves.png)
 ![Image of wolves](wolves2.png)
 ![Image of wolves](wolves3.png)
